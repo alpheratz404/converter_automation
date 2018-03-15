@@ -3,6 +3,7 @@ Feature: User is able to convert area units
 
   Background:
     Given I click on Got it button
+    And I land on Area screen
 
 
   #Scenario: User is able to dismiss help
@@ -37,8 +38,21 @@ Feature: User is able to convert area units
     Then I get "12000000" in To field
 
 
-  @wip
   Scenario:
       When I select "Hectare" from left column
       Then I see "Hectare" in From header
       And I get "10000" in To field
+
+
+  @wip
+  Scenario Outline:
+    When I see "Sq Kilometre" in From header
+    Then I select "<target>" from right column
+    And I get "<result>" in To field
+
+
+    Examples:
+    |target       |result     |
+    |Sq Kilometre |1          |
+    |Sq Metre     |1000000    |
+    |Sq Centimetre|10000000000|
