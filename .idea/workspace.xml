@@ -4,10 +4,8 @@
     <list id="8ff03309-94e1-40e3-b152-bcc024e8b4fc" name="Задание 3 (проверки)" comment="Задание 3 (проверки)" />
     <list default="true" id="6df2150b-f938-4855-8148-a94acb40390c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/features/area_screen.feature" afterPath="$PROJECT_DIR$/features/area_screen.feature" />
-      <change beforePath="$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb" />
-      <change beforePath="$PROJECT_DIR$/features/support/env.rb" afterPath="$PROJECT_DIR$/features/support/env.rb" />
-      <change beforePath="$PROJECT_DIR$/features/support/hooks.rb" afterPath="$PROJECT_DIR$/features/support/hooks.rb" />
+      <change beforePath="$PROJECT_DIR$/cucumber.yml" afterPath="$PROJECT_DIR$/cucumber.yml" />
+      <change beforePath="$PROJECT_DIR$/features/volume_screen.feature" afterPath="$PROJECT_DIR$/features/volume_screen.feature" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,31 +16,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="area_screen.feature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="area_screen.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/area_screen.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
+            <state relative-caret-position="391">
               <caret line="56" column="31" lean-forward="true" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="area_screen_steps.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb">
+      <file leaf-file-name="volume_screen.feature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/volume_screen.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="63" column="3" lean-forward="true" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="env.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/support/env.rb">
+      <file leaf-file-name="cucumber.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumber.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            <state relative-caret-position="85">
+              <caret line="5" column="74" lean-forward="true" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -57,12 +55,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/features/step_definitions/volume_screen_steps.rb" />
-        <option value="$PROJECT_DIR$/cucumber.yml" />
-        <option value="$PROJECT_DIR$/features/volume_screen.feature" />
         <option value="$PROJECT_DIR$/features/support/hooks.rb" />
         <option value="$PROJECT_DIR$/features/support/env.rb" />
         <option value="$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb" />
         <option value="$PROJECT_DIR$/features/area_screen.feature" />
+        <option value="$PROJECT_DIR$/features/volume_screen.feature" />
+        <option value="$PROJECT_DIR$/cucumber.yml" />
       </list>
     </option>
   </component>
@@ -161,7 +159,7 @@
       <workItem from="1520732690322" duration="141000" />
       <workItem from="1520732862787" duration="19000" />
       <workItem from="1520732977873" duration="15735000" />
-      <workItem from="1520907526347" duration="28534000" />
+      <workItem from="1520907526347" duration="32366000" />
     </task>
     <task id="LOCAL-00001" summary="Задание 3 (проверки)">
       <created>1520762472480</created>
@@ -174,13 +172,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44429000" />
+    <option name="totallyTimeSpent" value="48261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="616" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06836735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19489796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -273,14 +271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cucumber.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -289,10 +279,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/volume_screen.feature">
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="341">
+          <caret line="63" column="3" lean-forward="true" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -300,15 +290,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/volume_screen_steps.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/area_screen_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="63" column="3" lean-forward="true" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+          <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -323,8 +305,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/area_screen.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
+        <state relative-caret-position="391">
           <caret line="56" column="31" lean-forward="true" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumber.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="74" lean-forward="true" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/volume_screen.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
